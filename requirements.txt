@@ -1,0 +1,6 @@
+groq
+pydantic
+python-dotenv
+tqdm
+tenacity
+rapidfuzz
